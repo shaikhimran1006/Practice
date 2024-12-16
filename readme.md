@@ -40,7 +40,7 @@ If you have any questions or just want to say hi, feel free to reach out:
 
 - **Name:** Imran Shaikh
 - **Email:** imran1006shaikh@gmail.com
-- **GitHub:** imranshaikh1006(https://github.com/your-imranshaikh1006)
+- **GitHub:** [imranshaikh1006](https://github.com/your-imranshaikh1006)
 
 ---
 
