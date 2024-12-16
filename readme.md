@@ -39,8 +39,8 @@ Since this is my first repository, contributions are welcome but not expected. F
 If you have any questions or just want to say hi, feel free to reach out:
 
 - **Name:** Imran Shaikh
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** imran1006shaikh@gmail.com
+- **GitHub:** imranshaikh1006(https://github.com/your-imranshaikh1006)
 
 ---
 
